@@ -2,8 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=Hivara46&color=blue)
 
-200_OK!
-
 <!--
 **Hivara46/Hivara46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
