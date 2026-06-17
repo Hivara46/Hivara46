@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Hivara46](https://count.getloli.com/@Hivara46?theme=booru-ve)
+![Hivara46](https://count.getloli.com/@Hivara46?theme=capoo-1)
 
 <!--
 **Hivara46/Hivara46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
